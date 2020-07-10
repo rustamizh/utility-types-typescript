@@ -1,0 +1,25 @@
+{
+  "name": "utility-types-typescript",
+  "version": "1.0.0",
+  "description": "Descripton of typescript utility types",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rustamizh/utility-types-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rustamizh/utility-types-typescript/issues"
+  },
+  "homepage": "https://github.com/rustamizh/utility-types-typescript#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^3.6.0",
+    "@typescript-eslint/parser": "^3.6.0",
+    "eslint": "^7.4.0"
+  }
+}
